@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 841.89 595.28">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #efefef;
+        stroke-width: 15px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #231815;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        font-family: AdobeSongStd-Light-GBpc-EUC-H, 'Adobe Song Std';
+        font-size: 12px;
+        font-weight: 300;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="_图层_1" data-name="图层_1">
+      <rect class="cls-3" x="32" y="83.07" width="85.04" height="85.04" rx="14.17" ry="14.17"/>
+      <rect class="cls-3" x="174.31" y="81.45" width="85.04" height="85.04" rx="14.17" ry="14.17"/>
+      <rect class="cls-3" x="315.88" y="79.99" width="85.04" height="85.04" rx="14.17" ry="14.17"/>
+      <line class="cls-2" x1="117.04" y1="124.99" x2="173.73" y2="124.41"/>
+      <line class="cls-2" x1="259.94" y1="123.52" x2="316.63" y2="122.94"/>
+      <rect class="cls-3" x="457.45" y="77.95" width="85.04" height="85.04" rx="14.17" ry="14.17"/>
+      <line class="cls-2" x1="400.17" y1="121.5" x2="456.86" y2="120.91"/>
+      <line class="cls-2" x1="683.31" y1="118.58" x2="740" y2="118"/>
+      <rect class="cls-3" x="600.35" y="77.06" width="85.04" height="85.04" rx="14.17" ry="14.17"/>
+      <line class="cls-2" x1="543.07" y1="120.03" x2="599.76" y2="119.44"/>
+      <rect class="cls-3" x="739.83" y="74.99" width="85.04" height="85.04" rx="14.17" ry="14.17"/>
+      <rect class="cls-3" x="600.35" y="288.2" width="85.04" height="85.04" rx="14.17" ry="14.17"/>
+      <rect class="cls-3" x="739.83" y="288.2" width="85.04" height="85.04" rx="14.17" ry="14.17"/>
+      <rect class="cls-3" x="457.45" y="288.2" width="85.04" height="85.04" rx="14.17" ry="14.17"/>
+      <rect class="cls-3" x="32.75" y="284.99" width="85.04" height="85.04" rx="14.17" ry="14.17"/>
+      <rect class="cls-3" x="174.31" y="288.2" width="85.04" height="85.04" rx="14.17" ry="14.17"/>
+      <rect class="cls-3" x="315.88" y="288.2" width="85.04" height="85.04" rx="14.17" ry="14.17"/>
+      <line class="cls-1" x1="782.35" y1="160.03" x2="782.35" y2="288.2"/>
+      <line class="cls-2" x1="117.7" y1="327.8" x2="174.4" y2="327.22"/>
+      <line class="cls-2" x1="259.27" y1="331.01" x2="315.96" y2="330.43"/>
+      <line class="cls-2" x1="401.5" y1="331.01" x2="458.2" y2="330.43"/>
+      <line class="cls-2" x1="542.03" y1="331.01" x2="598.72" y2="330.43"/>
+      <line class="cls-2" x1="685.49" y1="331.01" x2="742.18" y2="330.43"/>
+      <text class="cls-4" transform="translate(49.06 126.61)"><tspan x="0" y="0">信源编码</tspan></text>
+      <text class="cls-4" transform="translate(192.4 127.63)"><tspan x="0" y="0">信道编码</tspan></text>
+      <text class="cls-4" transform="translate(334.37 126.61)"><tspan x="0" y="0">脉冲调制</tspan></text>
+      <text class="cls-4" transform="translate(473.05 123.97)"><tspan x="0" y="0">带通调制</tspan></text>
+      <text class="cls-4" transform="translate(630.11 122.51)"><tspan x="0" y="0">扩频</tspan></text>
+      <text class="cls-4" transform="translate(759.48 122.51)"><tspan x="0" y="0">多路复用</tspan></text>
+      <text class="cls-4" transform="translate(49.38 334.03)"><tspan x="0" y="0">信源译码</tspan></text>
+      <text class="cls-4" transform="translate(192.73 335.01)"><tspan x="0" y="0">信道译码</tspan></text>
+      <text class="cls-4" transform="translate(334.72 334.03)"><tspan x="0" y="0">脉冲解调</tspan></text>
+      <text class="cls-4" transform="translate(474.35 335.5)"><tspan x="0" y="0">带通解调</tspan></text>
+      <text class="cls-4" transform="translate(625.23 335.11)"><tspan x="0" y="0">解扩频</tspan></text>
+      <text class="cls-4" transform="translate(753.45 334.03)"><tspan x="0" y="0">解多路复用</tspan></text>
+      <text class="cls-4" transform="translate(18.22 219.13)"><tspan x="0" y="0">采样：一个周期200点</tspan><tspan x="0" y="14.4">量化：A律13折线</tspan><tspan x="0" y="28.8">编码：pcm折叠二进制码</tspan></text>
+      <text class="cls-4" transform="translate(188.62 237.64)"><tspan x="0" y="0">线性分组码</tspan></text>
+      <text class="cls-4" transform="translate(358.4 234.73)"><tspan x="0" y="0">无</tspan></text>
+      <text class="cls-4" transform="translate(474.88 227.29) scale(.93 1)"><tspan x="0" y="0">2PSK</tspan><tspan x="0" y="14.4">相干解调法</tspan></text>
+      <text class="cls-4" transform="translate(635.67 238.93)"><tspan x="0" y="0">无</tspan></text>
+      <text class="cls-4" transform="translate(777.88 35.1)"><tspan x="0" y="0">无</tspan></text>
+      <text class="cls-4" transform="translate(765.4 237.64)"><tspan x="0" y="0">AWGN</tspan></text>
+    </g>
+  </g>
+</svg>
